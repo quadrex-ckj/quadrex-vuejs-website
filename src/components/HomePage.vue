@@ -31,7 +31,7 @@
             position="relative"
             z_index="1"
         >
-            <p>Hi! <b class="bold">I'm Cheong Kah Jun</b>, a fresh graduate with a bachelor's degree in Electrical and Electronic Engineering. My passion is any and all things 
+            <p>Hi! <b class="bold">I'm Cheong Kah Jun</b>, currently working full-time as a Full Stack Dev. My passion is any and all things 
                 programming and coding related, as well as 3D printing and game dev.
             </p>
         </body-tab>
@@ -44,11 +44,9 @@
             position="relative"
             z_index="1"
         >
-            <p><b class="bold">I'm currently looking for a full-time position that involves coding</b>. I do have some personal experience with frontend dev 
-                (Vue.js, e.g. <b class="bold">this website which I made myself!</b>), embedded systems and game dev, but I am open to any programming-related job 
-                (e.g. data science, mobile app dev, backend dev). I am able to pick up any language or framework relatively quickly, given adequate guidance and documentation. You 
-                may browse through my resume to see the languages or skills I'm already familiar with. Kindly note that I'm not interested in any job that involves 
-                sales or marketing.
+            <p>I have some personal experience with frontend dev (Vue.js, e.g. <b class="bold">this website which I made myself!</b>), embedded systems and game dev, but I am
+                interested in other coding stuff as well. (e.g. data science, mobile app dev, backend dev). I am able to pick up any language or framework relatively quickly, 
+                given adequate guidance and documentation. You may browse through my resume to see the languages or skills I'm already familiar with. 
             </p>
         </body-tab>
         <br>
@@ -73,7 +71,7 @@
             position="relative"
             z_index="1"
         >
-            <p>If you have any positions that you think will suit me, I can be reached through LinkedIn or email. <b class="bold">You can find my contact links by clicking 
+            <p>I can be reached through LinkedIn or email. <b class="bold">You can find my contact links by clicking 
                 'Contact' on the menu bar at the top.</b> Thanks for taking the time to visit my website!
             </p>
         </body-tab>
